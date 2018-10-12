@@ -1,0 +1,20 @@
+html {
+  box-sizing: border-box;
+  background-color: #eee9de;
+  font-family: "Lato", sans-serif;
+  line-height: 1.5;
+}
+
+.cards {
+  margin: 1.5rem;
+  padding: 0;
+  list-style-type: none;
+  text-align: left;
+  display: block;
+}
+
+.cards h1 {
+  display: block;
+  margin-bottom: 1rem;
+  font-family: "lato bold", sans-serif;
+  text-align: left;
